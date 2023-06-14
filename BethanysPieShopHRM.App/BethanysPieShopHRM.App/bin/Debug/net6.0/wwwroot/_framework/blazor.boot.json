@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-CgGkoZQx73t3qchcsu85kgBcgrjNEOiudArOwKNb18k=",
       "System.Private.CoreLib.dll": "sha256-6nUSjiT7okMlkN897OnDypwppYuK7JxTahOClXkAuwE=",
       "BethanysPieShopHRM.Shared.dll": "sha256-D6AU4P08I1DtuSmKjYL1BA21okE\/ST+SIqBc\/WhoOn0=",
-      "BethanysPieShopHRM.App.dll": "sha256-ezqK6HalqAgzOmlYkULAjl1qEBbGpwKtcxh\/99avy+o="
+      "BethanysPieShopHRM.App.dll": "sha256-YZZz2q3he6577XDMHSMdqgvoc9JLwgAZ2nZKXMfcSgU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "BethanysPieShopHRM.Shared.pdb": "sha256-g6N7fG7b0nvIk40lVbHEy5xxcZnV\/bIh5UaYGoh6O+M=",
-      "BethanysPieShopHRM.App.pdb": "sha256-a0CPpm4kzjnb5H2WIVDO2XyvPrBnFmSHcSjk\/opocA8="
+      "BethanysPieShopHRM.App.pdb": "sha256-MmIm2ZLWKW21Qz1lZxH4zscAyqDKjX8Wnm6sfL6WtFU="
     },
     "runtime": {
       "dotnet.6.0.16.17tvfzx4in.js": "sha256-GT2gK+GjOisRXJY+9yh6H8s6K\/KDIsaFMFIgWvAnttY=",
