@@ -835,3 +835,12 @@ C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPi
 C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net6.0\refint\BethanysPieShopHRM.App.dll
 C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net6.0\BethanysPieShopHRM.App.pdb
 C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net6.0\ref\BethanysPieShopHRM.App.dll
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net6.0\wwwroot\_framework\BethanysPieShopHRM.ComponentsLibrary.dll
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net6.0\wwwroot\_framework\BethanysPieShopHRM.ComponentsLibrary.pdb
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net6.0\wwwroot\_framework\BethanysPieShopHRM.ComponentsLibrary.dll.gz
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net6.0\wwwroot\_framework\BethanysPieShopHRM.ComponentsLibrary.pdb.gz
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.staticwebassets.runtime.json
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.dll
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.pdb
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net6.0\build-gz\71WnywgU.gz
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net6.0\build-gz\yuIEhd8+.gz

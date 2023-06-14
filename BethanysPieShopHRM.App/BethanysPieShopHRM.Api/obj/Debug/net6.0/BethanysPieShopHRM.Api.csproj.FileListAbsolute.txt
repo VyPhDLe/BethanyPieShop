@@ -89,3 +89,6 @@ C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPi
 C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net6.0\BethanysPieShopHRM.Api.pdb
 C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net6.0\BethanysPieShopHRM.Api.genruntimeconfig.cache
 C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net6.0\ref\BethanysPieShopHRM.Api.dll
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.staticwebassets.runtime.json
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.dll
+C:\Users\Vy\source\repos\BethanyPieShop_Blazor\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net6.0\BethanysPieShopHRM.ComponentsLibrary.pdb

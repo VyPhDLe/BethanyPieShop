@@ -530,6 +530,20 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "BethanysPieShopHRM.ComponentsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BethanysPieShopHRM.Shared": "1.0.0",
+          "Microsoft.AspNetCore.Components.Web": "6.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BethanysPieShopHRM.ComponentsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BethanysPieShopHRM.ComponentsLibrary.dll": {}
+        }
+      },
       "BethanysPieShopHRM.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1062,6 +1076,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "BethanysPieShopHRM.ComponentsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BethanysPieShopHRM.Shared": "1.0.0",
+          "Microsoft.AspNetCore.Components.Web": "6.0.8"
+        },
+        "compile": {
+          "bin/placeholder/BethanysPieShopHRM.ComponentsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BethanysPieShopHRM.ComponentsLibrary.dll": {}
         }
       },
       "BethanysPieShopHRM.Shared/1.0.0": {
@@ -1870,6 +1898,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "BethanysPieShopHRM.ComponentsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BethanysPieShopHRM.ComponentsLibrary/BethanysPieShopHRM.ComponentsLibrary.csproj",
+      "msbuildProject": "../BethanysPieShopHRM.ComponentsLibrary/BethanysPieShopHRM.ComponentsLibrary.csproj"
+    },
     "BethanysPieShopHRM.Shared/1.0.0": {
       "type": "project",
       "path": "../BethanysPieShopHRM.Shared/BethanysPieShopHRM.Shared.csproj",
@@ -1878,6 +1911,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BethanysPieShopHRM.ComponentsLibrary >= 1.0.0",
       "BethanysPieShopHRM.Shared >= 1.0.0",
       "Blazored.LocalStorage >= 4.2.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.8",
@@ -1913,6 +1947,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj": {
+              "projectPath": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj"
+            },
             "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj": {
               "projectPath": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj"
             }

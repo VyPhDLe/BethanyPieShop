@@ -2,16 +2,16 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
 
-namespace BethanysPieShopHRM.App.Components
+namespace BethanysPieShopHRM.ComponentsLibrary
 {
     public partial class Map
     {
 
-        string elementId = $"map-{Guid.NewGuid():D}";
-
         [Inject]
         public IJSRuntime JSRuntime { get; set; }
 
+
+        string elementId = $"map-{Guid.NewGuid():D}";
 
         [Parameter]
         public double Zoom { get; set; }
