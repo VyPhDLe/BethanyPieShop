@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BethanysPieShopHRM.Shared.Domain
@@ -45,4 +46,5 @@ namespace BethanysPieShopHRM.Shared.Domain
         public byte[]? ImageContent { get; set; }
         public string? ImageName { get; set; }
     }
+
 }

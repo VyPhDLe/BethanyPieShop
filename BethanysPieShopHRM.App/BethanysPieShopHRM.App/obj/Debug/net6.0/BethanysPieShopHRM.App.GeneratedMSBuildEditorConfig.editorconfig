@@ -20,6 +20,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Vy/source/repos/BethanyPieShop_Blazor/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Components/AuthenticationStatus.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBdXRoZW50aWNhdGlvblN0YXR1cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Vy/source/repos/BethanyPieShop_Blazor/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Components/EmployeeCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFbXBsb3llZUNhcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,12 +40,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xRdWlja1ZpZXdQb3B1cC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Vy/source/repos/BethanyPieShop_Blazor/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Components/SampleComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTYW1wbGVDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Vy/source/repos/BethanyPieShop_Blazor/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Components/Widgets/EmployeeCountWidget.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXEVtcGxveWVlQ291bnRXaWRnZXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Vy/source/repos/BethanyPieShop_Blazor/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Components/Widgets/InboxWidget.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xXaWRnZXRzXEluYm94V2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vy/source/repos/BethanyPieShop_Blazor/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Vy/source/repos/BethanyPieShop_Blazor/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Pages/EmployeeDetail.razor]

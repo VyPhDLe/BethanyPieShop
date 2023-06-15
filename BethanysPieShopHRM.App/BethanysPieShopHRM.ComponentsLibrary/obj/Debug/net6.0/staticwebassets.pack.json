@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BethanysPieShopHRM.ComponentsLibrary.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BethanysPieShopHRM.ComponentsLibrary.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\deliveryMap.js",
       "PackagePath": "staticwebassets\\deliveryMap.js"
     },

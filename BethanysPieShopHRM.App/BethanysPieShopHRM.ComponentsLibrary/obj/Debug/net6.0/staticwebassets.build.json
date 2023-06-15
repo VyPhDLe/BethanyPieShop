@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZbGiGEDg8U/jXBFzDxYESM1csdQvyyB0GxwNvsNEJtg=",
+  "Hash": "dM0C16W3/t14B4GGZLgUUvsvrqaNTCMq75zG0Q/TR3g=",
   "Source": "BethanysPieShopHRM.ComponentsLibrary",
   "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BethanysPieShopHRM.ComponentsLibrary.styles.css",
-      "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
-      "RelativePath": "BethanysPieShopHRM.ComponentsLibrary.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BethanysPieShopHRM.ComponentsLibrary.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BethanysPieShopHRM.ComponentsLibrary.bundle.scp.css",
-      "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
-      "RelativePath": "BethanysPieShopHRM.ComponentsLibrary.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BethanysPieShopHRM.ComponentsLibrary.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\Vy\\source\\repos\\BethanyPieShop_Blazor\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\deliveryMap.js",
       "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
